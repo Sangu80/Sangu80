@@ -10,10 +10,10 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:devmlpygera80@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -55,5 +55,5 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/YOURUSERNAME)
+- 📧 Email: [devmlpygera80@gmail.com](mailto:devmlpygera80@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sangmeshwar-kanaje-242141170](https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/)

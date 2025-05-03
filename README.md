@@ -55,5 +55,5 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/YOURUSERNAME)
+- 📧 Email: [devmlpygera80@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/](https://linkedin.com/in/YOURUSERNAME)

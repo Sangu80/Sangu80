@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Sangmeshwar+ Kanaje.;Big+Data+Engineer+%7C+AI+Enthusiast+%7C+Cloud+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Sangmeshwar+Kanaje.;Big+Data+Engineer+%7C+AI+Enthusiast+%7C+Cloud+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -10,10 +10,10 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/" target="_blank">
+  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:devmlpygera80@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -55,5 +55,5 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [devmlpygera80@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/](https://linkedin.com/in/YOURUSERNAME)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/YOURUSERNAME)

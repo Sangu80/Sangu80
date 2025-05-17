@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Sangmeshwar+Kanaje.;Big+Data+Engineer+%7C+AI+Enthusiast+%7C+Cloud+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Sangmeshwar+Kanaje.;Data+Engineer+%7C+AI+Enthusiast+%7C+Cloud+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -22,18 +22,58 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student based in Sydney, Australia.
-- 💼 Passionate about AI, Machine Learning, and Big Data.
-- 🌐 Experienced with cloud platforms like Azure and Snowflake.
-- 🛠️ Proficient in Python, Java, JavaScript, and SQL.
+- 🎓 Master of Data Science and Innovation student at University of Technology Sydney.
+- 💼 Data Analyst / Data Engineer @ Star Phones Technology Pty Ltd.
+- ☁️ Skilled in Google Cloud, Azure, Snowflake, Airflow, PySpark & Databricks.
+- 🧠 Strong interest in Machine Learning, NLP, and Big Data analytics.
+- 🛠️ Proficient in Python, SQL, C++, and working with TensorFlow & PyTorch.
+
+---
+
+### 💼 Work Experience
+
+- **Data Analyst / Engineer** @ Star Phones Technology  
+  _Jun 2023 – Present_  
+  • Built predictive sales models with 85% accuracy  
+  • Automated reporting pipelines, reducing manual effort by 30%  
+  • Improved inventory accuracy by 25% through real-time dashboards  
+
+- **Python Developer** @ Softora Technologies  
+  _Aug 2021_  
+  • Created CLI-based automated alarm clock application using Python  
+
+- **Machine Learning Intern** @ Career Launcher  
+  _Jun 2020_  
+  • Built regression and clustering models for portfolio analysis and stock categorization  
 
 ---
 
 ### 🚀 Projects
 
-- **NUTRION**: AI-powered food recommendation system using FastAPI and Streamlit.
-- **Disaster Management System**: IoT and cloud-based early warning system.
-- **Facial Recognition Video System**: Real-time facial recognition with OpenCV.
+- **Nutrion – AI Food Recommender**  
+  Random Forest-based food suggestion engine with Streamlit UI and API integration for groceries.
+
+- **DeepFake Detection Tool (ML-based)**  
+  LSTM-based deepfake detection tool with 92% accuracy for forensic video analysis.
+
+- **Post-Disaster Geo-Spatial System**  
+  AI-powered mobile app for relief prioritization with 91% accuracy.
+
+- **Slack Clone**  
+  Real-time chat application with React and Firebase.
+
+- **AWS Web Automation**  
+  Serverless API using AWS S3 & DynamoDB for dynamic content rendering on Wix.
+
+---
+
+### 🏆 Awards
+
+- 🥇 **People’s Choice Award** – MDSI Innovation Labs 2024, UTS  
+- 🎓 **GitHub Graduate 2021 (Octograd)**  
+- 🧠 **AWS ML Scholarship Recipient** – Udacity  
+- 💡 Finalist – AGBI Digital HealthTech Grand Challenge (HackerEarth)  
+- 🌩️ 30 Days of Google Cloud Program Finisher  
 
 ---
 
@@ -55,5 +95,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [devmlpygera80@gmail.com](mailto:devmlpygera80@gmail.com)
+- 📧 Email: [devmlpygera80@gmail.com](mailto:devmlpygera80@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sangmeshwar-kanaje-242141170](https://www.linkedin.com/in/sangmeshwar-kanaje-242141170/)
+
+---

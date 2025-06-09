@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Master of Data Science and Innovation student at University of Technology Sydney.
+- 🎓 Master of Data Science and Innovation Graduate from University of Technology Sydney.
 - 💼 Data Analyst / Data Engineer @ Star Phones Technology Pty Ltd.
 - ☁️ Skilled in Google Cloud, Azure, Snowflake, Airflow, PySpark & Databricks.
 - 🧠 Strong interest in Machine Learning, NLP, and Big Data analytics.

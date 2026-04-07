@@ -32,11 +32,7 @@
 
 ### 💼 Work Experience
 
-- **Data Analyst / Engineer** @ Star Phones Technology  
-  _Jun 2023 – Present_  
-  • Built predictive sales models with 85% accuracy  
-  • Automated reporting pipelines, reducing manual effort by 30%  
-  • Improved inventory accuracy by 25% through real-time dashboards  
+
 
 - **Python Developer** @ Softora Technologies  
   _Aug 2021_  
